@@ -5,5 +5,5 @@
 
 2017.9——2020.6  Dalian University of Technology as a graduate student
 
-### field of research
+### Interests of research
 Machine Learning, Deep Learning, Deep generative model, Deep Clustering 
