@@ -2,6 +2,7 @@
 
 ### Education
 2013.9——2017.6  Dalian University of Technology as an undergraduate
+
 2017.9——2020.6  Dalian University of Technology as a graduate student
 
 ### field of research
